@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+Autotest	lib/parallel_autotest.rb	/^class Autotest$/;"	c
+TEST_FILENAME_PATTERN	lib/parallel_autotest.rb	/^  TEST_FILENAME_PATTERN = \/_test.rb$\/$/;"	C	class:Autotest
+all_test_files	lib/parallel_autotest.rb	/^  def all_test_files$/;"	f	class:Autotest
+calculate_test_filename	lib/parallel_autotest.rb	/^  def calculate_test_filename(filename)$/;"	f	class:Autotest
+discover_modified_files	lib/parallel_autotest.rb	/^  def discover_modified_files$/;"	f	class:Autotest
+get_file_dates	lib/parallel_autotest.rb	/^  def get_file_dates$/;"	f	class:Autotest
+load_directory	lib/parallel_autotest.rb	/^  def load_directory(path, test_files_hash)$/;"	f	class:Autotest
+modified	lib/parallel_autotest.rb	/^  def modified(old_file_hash, new_file_hash)$/;"	f	class:Autotest
+run	lib/parallel_autotest.rb	/^  def run$/;"	f	class:Autotest
+run	lib/parallel_autotest.rb	/^  def self.run$/;"	F	class:Autotest
+run_tests	lib/parallel_autotest.rb	/^  def run_tests(filenames)$/;"	f	class:Autotest
+test_names_for	lib/parallel_autotest.rb	/^  def test_names_for(filenames)$/;"	f	class:Autotest
+wait_for_modified_files	lib/parallel_autotest.rb	/^  def wait_for_modified_files$/;"	f	class:Autotest
